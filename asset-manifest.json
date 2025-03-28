@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.30df90f1.js",
-    "main.css": "/static/css/main.4bc3d72c.css",
-    "static/js/453.a1503592.chunk.js": "/static/js/453.a1503592.chunk.js",
+    "main.js": "/static/js/main.fbb25ca8.js",
+    "main.css": "/static/css/main.8146e2b8.css",
+    "static/js/453.36e9e092.chunk.js": "/static/js/453.36e9e092.chunk.js",
     "static/media/LASA2_NhinGiongNhau_DocGiongNhau.png": "/static/media/LASA2_NhinGiongNhau_DocGiongNhau.88c72f3bac21f8a270dc.png",
     "static/media/LASA1_NhinGiongNhau_DocKhacNhau.png": "/static/media/LASA1_NhinGiongNhau_DocKhacNhau.6ff94b8912427f75a53c.png",
     "static/media/LASA5_NhinKhacNhau_DocGiongNhau.png": "/static/media/LASA5_NhinKhacNhau_DocGiongNhau.e6080dedba7948d69787.png",
@@ -104,10 +104,10 @@
     "static/media/DatNamYen.jpg": "/static/media/DatNamYen.88318fa06653512a27e4.jpg",
     "static/media/GayXuong.webp": "/static/media/GayXuong.af5c8b979f8799e2bcfc.webp",
     "index.html": "/index.html",
-    "main.4bc3d72c.css.map": "/static/css/main.4bc3d72c.css.map"
+    "main.8146e2b8.css.map": "/static/css/main.8146e2b8.css.map"
   },
   "entrypoints": [
-    "static/js/main.30df90f1.js",
-    "static/css/main.4bc3d72c.css"
+    "static/js/main.fbb25ca8.js",
+    "static/css/main.8146e2b8.css"
   ]
 }
